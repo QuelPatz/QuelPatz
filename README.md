@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raquel Patzdorf</h1>
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/QuelPatz/Portfolio](https://github.com/QuelPatz/Portfolio)
 
